@@ -1,50 +1,52 @@
-# Welcome to your Expo app 👋
+# 🔄 FlipMaster - Stil ile Metin Ters Çevirme
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+React Native ve Expo ile geliştirilmiş, etkileyici animasyonlara sahip bir metin ters çevirme uygulaması.
 
-## Get started
+[![Expo](https://img.shields.io/badge/Expo-6.5.0-mavi.svg)](https://expo.io)
+[![React Native](https://img.shields.io/badge/React%20Native-0.73-yeşil.svg)](https://reactnative.dev)
+[![Lisans: MIT](https://img.shields.io/badge/Lisans-MIT-sarı.svg)](https://opensource.org/licenses/MIT)
 
-1. Install dependencies
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VjNGZ5dW9jM3Z5b2JqenJzZ2l4Z2Vkbm5hYm5yNDN3dG9yM3J6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohze4QpDzkaMPJOc8/giphy.gif" width="300" alt="Demo">
+</div>
 
-   ```bash
-   npm install
-   ```
+## ✨ Özellikler
 
-2. Start the app
+- **Metni Ters Çevirme**: Girdiğiniz metni anında tersine çevirir
+- **360° Dönüş Animasyonu**: "flip" komutu için özel efekt
+- **Akıllı Doğrulama**: 20 karakter sınırı ve hata yönetimi
+- **Profesyonel Arayüz**:
+  - Dinamik geçişli metin efektleri
+  - Yüzen gölge efektleri
+  - Yumuşak geçiş animasyonları
+- **Çapraz Platform**: iOS & Android'de sorunsuz çalışır
+- **Tam Test Edilmiş**: Temel özellikler için %100 test kapsamı
 
-   ```bash
-    npx expo start
-   ```
+## 🛠 Teknoloji Yığını
 
-In the output, you'll find options to open the app in a
+**Çekirdek:**
+- React Native
+- Expo SDK
+- TypeScript
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+**Animasyonlar:**
+- React Native Reanimated
+- Expo Linear Gradient
+- Masked View
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+**UI/UX:**
+- Google Fonts (Bebas Neue)
+- StyleSheet
+- Platforma özel stil yönetimi
 
-## Get a fresh project
+**Test:**
+- Jest
+- React Testing Library
+- Native Modül Mock'ları
 
-When you're ready, run:
+## 🚀 Kurulum
 
+1. Repoyu klonla:
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+git clone https://github.com/kullanıcıadınız/flipmaster.git
+cd flipmaster

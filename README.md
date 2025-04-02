@@ -1,6 +1,6 @@
 # ÖDEV 16 METİNLERİ TERS ÇEVİRME UYGULAMASI
 
-React Native ve Expo ile geliştirilmiş, reanimated kullanarak animasyonlu hale getirdiğim metin ters çevirme uygulaması. Belli bir inputa özel tetiklenen bir animasyon da ekledim zordu :>
+React Native ve Expo ile geliştirdiğim, reanimated kullanarak animasyonlu hale getirdiğim metin ters çevirme uygulaması. Belli bir inputa özel tetiklenen bir animasyon da ekledim zordu :>
 
 [![Expo](https://img.shields.io/badge/Expo-6.5.0-mavi.svg)](https://expo.io)
 [![React Native](https://img.shields.io/badge/React%20Native-0.73-yeşil.svg)](https://reactnative.dev)

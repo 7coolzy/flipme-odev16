@@ -1,26 +1,25 @@
-# 🔄 FlipMaster - Stil ile Metin Ters Çevirme
+# ÖDEV 16 METİNLERİ TERS ÇEVİRME UYGULAMASI
 
-React Native ve Expo ile geliştirilmiş, etkileyici animasyonlara sahip bir metin ters çevirme uygulaması.
+React Native ve Expo ile geliştirilmiş, reanimated kullanarak animasyonlu hale getirdiğim metin ters çevirme uygulaması. Belli bir inputa özel tetiklenen bir animasyon da ekledim zordu :>
 
 [![Expo](https://img.shields.io/badge/Expo-6.5.0-mavi.svg)](https://expo.io)
 [![React Native](https://img.shields.io/badge/React%20Native-0.73-yeşil.svg)](https://reactnative.dev)
-[![Lisans: MIT](https://img.shields.io/badge/Lisans-MIT-sarı.svg)](https://opensource.org/licenses/MIT)
 
 
 
-## ✨ Özellikler
+
+## Özellikler
 
 - **Metni Ters Çevirme**: Girdiğiniz metni anında tersine çevirir
 - **360° Dönüş Animasyonu**: "flip" komutu için özel efekt
 - **Akıllı Doğrulama**: 20 karakter sınırı ve hata yönetimi
-- **Profesyonel Arayüz**:
+- **Animasyonlu Arayüz**:
   - Dinamik geçişli metin efektleri
   - Yüzen gölge efektleri
   - Yumuşak geçiş animasyonları
-- **Çapraz Platform**: iOS & Android'de sorunsuz çalışır
 - **Tam Test Edilmiş**: Temel özellikler için %100 test kapsamı
 
-## 🛠 Teknoloji Yığını
+## Kullandığım Teknolojiler
 
 **Çekirdek:**
 - React Native

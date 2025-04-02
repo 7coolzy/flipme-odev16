@@ -48,5 +48,5 @@ React Native ve Expo ile geliştirilmiş, etkileyici animasyonlara sahip bir met
 
 1. Repoyu klonla:
 ```bash
-git clone https://github.com/kullanıcıadınız/flipmaster.git
+git clone https://github.com/7coolzy/flipmaster.git
 cd flipmaster

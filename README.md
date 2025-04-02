@@ -6,9 +6,7 @@ React Native ve Expo ile geliştirilmiş, etkileyici animasyonlara sahip bir met
 [![React Native](https://img.shields.io/badge/React%20Native-0.73-yeşil.svg)](https://reactnative.dev)
 [![Lisans: MIT](https://img.shields.io/badge/Lisans-MIT-sarı.svg)](https://opensource.org/licenses/MIT)
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VjNGZ5dW9jM3Z5b2JqenJzZ2l4Z2Vkbm5hYm5yNDN3dG9yM3J6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohze4QpDzkaMPJOc8/giphy.gif" width="300" alt="Demo">
-</div>
+
 
 ## ✨ Özellikler
 
